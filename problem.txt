@@ -1,0 +1,10 @@
+Max Product Subarray	
+Min Jumps Array	
+Stairs
+Length of Longest Subsequence	
+Longest Increasing Subsequence	
+Best Time to Buy and Sell Stocks I	
+Coins in a Line	
+Longest Balanced Substring	
+Minimum Number of Squares	
+
