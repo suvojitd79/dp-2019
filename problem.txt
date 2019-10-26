@@ -7,4 +7,39 @@ Best Time to Buy and Sell Stocks I
 Coins in a Line	
 Longest Balanced Substring	
 Minimum Number of Squares	
-
+Longest Increasing Subsequence	
+Best Time to Buy and Sell Stocks I	
+Coins in a Line	
+Longest Balanced Substring	
+Minimum Number of Squares
+*************************************	
+N digit numbers with digit sum S	
+Maximum Sum	
+Intersecting Chords in a Circle	
+Coin Sum Infinite	
+Best Time to Buy and Sell Stocks II	
+Unique Paths in a Grid	
+Rod Cutting	
+Flip Array	
+Odd Palindrome	
+Distinct Subsequences
+***************************************	
+Unique Binary Search Trees II	
+Tushar's Birthday Party	
+Word Break II	
+Burst Balloons	
+Length of Longest Fibonacci Subsequence	
+Russian Doll Envelopes	
+Arithmetic Subsequences	
+DISTINCT SUBSEQUENCES	
+Shortest common supersequence	
+Longest Balanced Substring	
+Distinct Subsequences	
+Min Sum Path in Matrix	
+Scooby and Beautiful Strings	
+Longest Common Subsequence	
+Longest Pallindromic Subsequence	
+Unique Paths in a Grid	
+Coins in a Line	
+Coin Sum Infinite	
+Maximum Sum	
