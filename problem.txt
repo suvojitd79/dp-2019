@@ -31,14 +31,10 @@ Russian Doll Envelopes
 Arithmetic Subsequences 	
 DISTINCT SUBSEQUENCES
 Shortest common supersequence
-Longest Balanced Substring	*******************
-Distinct Subsequences	
+Longest Balanced Substring	*******************	
 Min Sum Path in Matrix	
 Scooby and Beautiful Strings	
-Longest Common Subsequence	
-Longest Pallindromic Subsequence	
-Unique Paths in a Grid		
-Coins in a Line	
+Longest Pallindromic Subsequence				
 Coin Sum Infinite	
 Maximum Sum	
 word Break - I
